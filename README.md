@@ -65,3 +65,13 @@ A test set for lab3 in Programming Assignment of Compilers in Nanjing University
 1
 1
 ```
+
+4. useless.cmm
+
+```
+4
+4
+4
+4
+4
+```
