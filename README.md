@@ -6,7 +6,7 @@ A test set for lab3 in Programming Assignment of Compilers in Nanjing University
 
 1. merge_sort.cmm
 
-	```
+```
 32
 12
 56
@@ -21,11 +21,11 @@ A test set for lab3 in Programming Assignment of Compilers in Nanjing University
 56
 76
 78
-	```
+```
 	
 2. array_structure.cmm
 
-	```
+```
 1
 1
 2
@@ -45,4 +45,4 @@ A test set for lab3 in Programming Assignment of Compilers in Nanjing University
 97
 98
 99
-	```
+```
