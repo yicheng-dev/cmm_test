@@ -46,3 +46,22 @@ A test set for lab3 in Programming Assignment of Compilers in Nanjing University
 98
 99
 ```
+
+3. goldbach.cmm
+
+```
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+```
